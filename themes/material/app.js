@@ -1,5 +1,4 @@
 // 在head 中 加载 必要静态
-//jjj
 document.write(
   '<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/mdui@0.4.3/dist/css/mdui.min.css">'
 );
